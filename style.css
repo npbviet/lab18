@@ -1,0 +1,23 @@
+.carousel-item img {
+  max-height: 500px;
+  object-fit: cover;
+}
+.carousel-caption {
+  text-align: left;
+  bottom: 15%;
+}
+main {
+  height: 200px;
+}
+footer {
+  display: flex;
+  justify-content: space-between;
+}
+.f-left {
+  display: flex;
+  gap: 10px;
+}
+.f-right {
+  display: flex;
+  justify-content: flex-end;
+}
